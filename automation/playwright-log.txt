@@ -1,0 +1,67 @@
+{"level":30,"time":"2025-10-30T01:53:08.832Z","pid":16876,"hostname":"Asus_Andressa","msg":"Listening on 127.0.0.1:52784"}
+{"level":30,"time":"2025-10-30T01:53:09.196Z","pid":16876,"hostname":"Asus_Andressa","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2025-10-30T01:53:09.498Z","pid":16876,"hostname":"Asus_Andressa","msg":"Adding browser to stack: chromium, version: 141.0.7390.37"}
+{"level":30,"time":"2025-10-30T01:53:09.499Z","pid":16876,"hostname":"Asus_Andressa","msg":"Adding 0 contexts to browser"}
+{"level":30,"time":"2025-10-30T01:53:09.499Z","pid":16876,"hostname":"Asus_Andressa","msg":"End of node method newBrowser"}
+{"level":30,"time":"2025-10-30T01:53:09.503Z","pid":16876,"hostname":"Asus_Andressa","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-10-30T01:53:09.504Z","pid":16876,"hostname":"Asus_Andressa","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-10-30T01:53:09.509Z","pid":16876,"hostname":"Asus_Andressa","msg":"Start of node method newPage"}
+{"level":30,"time":"2025-10-30T01:53:09.509Z","pid":16876,"hostname":"Asus_Andressa","msg":"currentBrowser: {\"name\":\"chromium\",\"browser\":{\"_type\":\"Browser\",\"_guid\":\"browser@7062be7ba56c9c2e3be44c5121ace59a\"},\"headless\":false,\"_contextStack\":[],\"id\":\"browser=b4318573-7a99-4755-9bdf-2b80e300bea2\"}"}
+{"level":30,"time":"2025-10-30T01:53:09.520Z","pid":16876,"hostname":"Asus_Andressa","msg":"Setting default timeout for context context=1c7690e3-0681-4e19-8e17-86c9a1cc52ba to 10000"}
+{"level":30,"time":"2025-10-30T01:53:09.520Z","pid":16876,"hostname":"Asus_Andressa","msg":"Changed active context: context=1c7690e3-0681-4e19-8e17-86c9a1cc52ba"}
+{"level":30,"time":"2025-10-30T01:53:09.883Z","pid":16876,"hostname":"Asus_Andressa","msg":"Video path: undefined"}
+{"level":30,"time":"2025-10-30T01:53:09.883Z","pid":16876,"hostname":"Asus_Andressa","msg":"Changed active page"}
+{"level":30,"time":"2025-10-30T01:53:12.896Z","pid":16876,"hostname":"Asus_Andressa","msg":"End of node method newPage"}
+{"level":30,"time":"2025-10-30T01:53:12.904Z","pid":16876,"hostname":"Asus_Andressa","msg":"Start of node method goTo"}
+{"level":30,"time":"2025-10-30T01:53:12.976Z","pid":16876,"hostname":"Asus_Andressa","msg":"End of node method goTo"}
+{"level":30,"time":"2025-10-30T01:53:12.981Z","pid":16876,"hostname":"Asus_Andressa","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-10-30T01:53:12.981Z","pid":16876,"hostname":"Asus_Andressa","msg":"Strict mode is enabled, find Locator with xpath=/html/body/div/main/div/div[2] in page."}
+{"level":30,"time":"2025-10-30T01:53:13.049Z","pid":16876,"hostname":"Asus_Andressa","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-10-30T01:53:13.055Z","pid":16876,"hostname":"Asus_Andressa","msg":"Start of node method click"}
+{"level":30,"time":"2025-10-30T01:53:13.056Z","pid":16876,"hostname":"Asus_Andressa","msg":"Strict mode is enabled, find Locator with css=div.movie-card:nth-child(1) > div:nth-child(2) > a:nth-child(5) in page."}
+{"level":30,"time":"2025-10-30T01:53:13.348Z","pid":16876,"hostname":"Asus_Andressa","msg":"End of node method click"}
+{"level":30,"time":"2025-10-30T01:53:13.354Z","pid":16876,"hostname":"Asus_Andressa","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-10-30T01:53:13.354Z","pid":16876,"hostname":"Asus_Andressa","msg":"Strict mode is enabled, find Locator with css=div.session-card:nth-child(1) > a:nth-child(2) in page."}
+{"level":30,"time":"2025-10-30T01:53:14.161Z","pid":16876,"hostname":"Asus_Andressa","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-10-30T01:53:14.166Z","pid":16876,"hostname":"Asus_Andressa","msg":"Start of node method click"}
+{"level":30,"time":"2025-10-30T01:53:14.166Z","pid":16876,"hostname":"Asus_Andressa","msg":"Strict mode is enabled, find Locator with css=div.session-card:nth-child(1) > a:nth-child(2) in page."}
+{"level":30,"time":"2025-10-30T01:53:14.564Z","pid":16876,"hostname":"Asus_Andressa","msg":"End of node method click"}
+{"level":30,"time":"2025-10-30T01:53:14.570Z","pid":16876,"hostname":"Asus_Andressa","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-10-30T01:53:14.570Z","pid":16876,"hostname":"Asus_Andressa","msg":"Strict mode is enabled, find Locator with css=button:has-text(\"Continuar\") in page."}
+{"level":30,"time":"2025-10-30T01:53:14.788Z","pid":16876,"hostname":"Asus_Andressa","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-10-30T01:53:14.795Z","pid":16876,"hostname":"Asus_Andressa","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-10-30T01:53:14.795Z","pid":16876,"hostname":"Asus_Andressa","msg":"Strict mode is enabled, find Locator with css=button:has-text(\"Continuar\") in page."}
+{"level":30,"time":"2025-10-30T01:53:14.833Z","pid":16876,"hostname":"Asus_Andressa","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-10-30T01:53:15.850Z","pid":16876,"hostname":"Asus_Andressa","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-10-30T01:53:15.853Z","pid":16876,"hostname":"Asus_Andressa","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-10-30T01:53:15.856Z","pid":16876,"hostname":"Asus_Andressa","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-10-30T01:53:15.859Z","pid":16876,"hostname":"Asus_Andressa","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-10-30T01:53:15.862Z","pid":16876,"hostname":"Asus_Andressa","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-10-30T01:53:15.866Z","pid":16876,"hostname":"Asus_Andressa","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-10-30T01:53:15.870Z","pid":16876,"hostname":"Asus_Andressa","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-10-30T01:53:15.872Z","pid":16876,"hostname":"Asus_Andressa","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-10-30T01:53:15.875Z","pid":16876,"hostname":"Asus_Andressa","msg":"Changed active context: context=1c7690e3-0681-4e19-8e17-86c9a1cc52ba"}
+{"level":30,"time":"2025-10-30T01:53:15.875Z","pid":16876,"hostname":"Asus_Andressa","msg":"Changing current active page: page=35d73092-1b90-43ca-974c-b25974401f7a"}
+{"level":30,"time":"2025-10-30T01:53:15.875Z","pid":16876,"hostname":"Asus_Andressa","msg":"Changed active page"}
+{"level":30,"time":"2025-10-30T01:53:15.880Z","pid":16876,"hostname":"Asus_Andressa","msg":"Start of node method closeContext"}
+{"level":30,"time":"2025-10-30T01:53:15.913Z","pid":16876,"hostname":"Asus_Andressa","msg":"Removed page=e1f3dbe5-0e1c-4fa7-b2b8-eff96a1bb4b8 from context=1c7690e3-0681-4e19-8e17-86c9a1cc52ba page stack"}
+{"level":30,"time":"2025-10-30T01:53:15.966Z","pid":16876,"hostname":"Asus_Andressa","msg":"End of node method closeContext"}
+{"level":30,"time":"2025-10-30T01:53:15.978Z","pid":16876,"hostname":"Asus_Andressa","msg":"Start of node method closeBrowser"}
+{"level":30,"time":"2025-10-30T01:53:16.190Z","pid":16876,"hostname":"Asus_Andressa","msg":"End of node method closeBrowser"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (C:\Users\andre\AppData\Local\Programs\Python\Python313\Lib\site-packages\Browser\wrapper\index.js:12547:15)
+    at PlaywrightServer.getActiveBrowser (C:\Users\andre\AppData\Local\Programs\Python\Python313\Lib\site-packages\Browser\wrapper\index.js:13497:59)
+    at PlaywrightServer.setTimeout (C:\Users\andre\AppData\Local\Programs\Python\Python313\Lib\site-packages\Browser\wrapper\index.js:13747:57)
+    at Object.onReceiveHalfClose (C:\Users\andre\AppData\Local\Programs\Python\Python313\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:1464:25)
+    at BaseServerInterceptingCall.maybePushNextMessage (C:\Users\andre\AppData\Local\Programs\Python\Python313\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:595:31)
+    at BaseServerInterceptingCall.handleEndEvent (C:\Users\andre\AppData\Local\Programs\Python\Python313\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:635:14)
+    at ServerHttp2Stream.<anonymous> (C:\Users\andre\AppData\Local\Programs\Python\Python313\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:394:18)
+    at ServerHttp2Stream.emit (node:events:531:35)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+=============================================================
+{"level":30,"time":"2025-10-30T01:53:16.198Z","pid":16876,"hostname":"Asus_Andressa","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-10-30T01:53:16.198Z","pid":16876,"hostname":"Asus_Andressa","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-10-30T01:53:16.253Z","pid":16876,"hostname":"Asus_Andressa","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2025-10-30T01:53:16.253Z","pid":16876,"hostname":"Asus_Andressa","msg":"End of node method closeAllBrowsers"}
